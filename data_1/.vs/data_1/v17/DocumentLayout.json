@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\data-structure\\data_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E8373-521D-4320-8653-C46CC6D12FF0}|data_1\\data_1.vcxproj|D:\\code\\data-structure\\data_1\\data_1\\seqlist_1211.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1E8373-521D-4320-8653-C46CC6D12FF0}|data_1\\data_1.vcxproj|solutionrelative:data_1\\seqlist_1211.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E8373-521D-4320-8653-C46CC6D12FF0}|data_1\\data_1.vcxproj|D:\\code\\data-structure\\data_1\\data_1\\test_1211.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1E8373-521D-4320-8653-C46CC6D12FF0}|data_1\\data_1.vcxproj|solutionrelative:data_1\\test_1211.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E8373-521D-4320-8653-C46CC6D12FF0}|data_1\\data_1.vcxproj|D:\\code\\data-structure\\data_1\\data_1\\seqlist_1211.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1E8373-521D-4320-8653-C46CC6D12FF0}|data_1\\data_1.vcxproj|solutionrelative:data_1\\seqlist_1211.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_1211.c",
+              "DocumentMoniker": "D:\\code\\data-structure\\data_1\\data_1\\test_1211.c",
+              "RelativeDocumentMoniker": "data_1\\test_1211.c",
+              "ToolTip": "D:\\code\\data-structure\\data_1\\data_1\\test_1211.c",
+              "RelativeToolTip": "data_1\\test_1211.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-11T06:34:18.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "seqlist_1211.c",
+              "DocumentMoniker": "D:\\code\\data-structure\\data_1\\data_1\\seqlist_1211.c",
+              "RelativeDocumentMoniker": "data_1\\seqlist_1211.c",
+              "ToolTip": "D:\\code\\data-structure\\data_1\\data_1\\seqlist_1211.c",
+              "RelativeToolTip": "data_1\\seqlist_1211.c",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-11T06:23:15.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "seqlist_1211.h",
+              "DocumentMoniker": "D:\\code\\data-structure\\data_1\\data_1\\seqlist_1211.h",
+              "RelativeDocumentMoniker": "data_1\\seqlist_1211.h",
+              "ToolTip": "D:\\code\\data-structure\\data_1\\data_1\\seqlist_1211.h",
+              "RelativeToolTip": "data_1\\seqlist_1211.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T06:32:52.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
