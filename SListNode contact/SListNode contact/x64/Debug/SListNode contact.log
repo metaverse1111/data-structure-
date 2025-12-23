@@ -1,0 +1,4 @@
+﻿  contact.c
+D:\code\data-structure\SListNode contact\SListNode contact\contact.c(41,12): warning C4013: “strcmp”未定义；假设外部返回 int
+D:\code\data-structure\SListNode contact\SListNode contact\contact.c(86,28): warning C4028: 形参 1 与声明不一致
+  SListNode contact.vcxproj -> D:\code\data-structure\SListNode contact\x64\Debug\SListNode contact.exe
